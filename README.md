@@ -1,10 +1,10 @@
 # Yeni Başlayanlar İçin Python Rehberi
-Bu Python rehberidir. Bu eğitimde Python dilinin temellerini ve daha gelişmiş konularını öğreneceksiniz.
+Bu bir Python rehberidir. Bu eğitimde Python dilinin temellerini ve daha gelişmiş konularını öğreneceksiniz.
 
 ## İçinedekiler
 * Python Dili
 * Etkileşimli Python
-* Sözlüksel yapısı
+* Sözdizimsel yapısı
 * Veri tipleri
 * Karakter Dizileri (strings)
 * Listeler (lists)
