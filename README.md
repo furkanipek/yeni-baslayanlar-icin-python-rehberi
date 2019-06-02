@@ -1,0 +1,1 @@
+# yeni-baslayanlar-icin-python-rehberi
