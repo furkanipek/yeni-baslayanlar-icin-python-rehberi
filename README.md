@@ -22,3 +22,5 @@ Bu bir Python rehberidir. Bu eğitimde Python dilinin temellerini ve daha geliş
 
 ## Python
 Python kullanışlı, dinamik, nesne yönelimli bir programlama dilidir. Python dilinin tasarım amacı programcının üretkenliğini ve kod okunabilirliğini güçlendirmektir.
+
+http://zetcode.com/lang/python/ dökümanının yerelleştirilmiş halidir.
