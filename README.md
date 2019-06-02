@@ -1,5 +1,5 @@
-# Yeni Başlayanlar İçin Python Eğitimi
-Bu Python eğitimidir. Bu eğitimde Python dilinin temellerini ve daha gelişmiş konularını öğreneceksiniz.
+# Yeni Başlayanlar İçin Python Rehberi
+Bu Python rehberidir. Bu eğitimde Python dilinin temellerini ve daha gelişmiş konularını öğreneceksiniz.
 
 ## İçinedekiler
 * Python Dili
