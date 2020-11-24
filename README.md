@@ -2,7 +2,7 @@
 Bu bir Python rehberidir. Bu eğitimde Python dilinin temellerini ve daha gelişmiş konularını öğreneceksiniz.
 
 ## İçinedekiler
-* Python Dili
+* [Python Dili](01-Python-Dili.md)
 * Etkileşimli Python
 * Sözdizimsel yapısı
 * Veri tipleri
