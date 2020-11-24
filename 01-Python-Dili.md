@@ -1,4 +1,4 @@
-# Test
+# Python Dili
 Python rehberinin bu bölümünde, genel olarak Python programlama dili hakkında konuşacağız. İlk Python programımızı nasıl çalıştıracağımızı göstereceğiz.
 
 ## Amaç
